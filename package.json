@@ -1,0 +1,23 @@
+{
+  "name": "tech-post",
+  "version": "1.0.0",
+  "description": "tech",
+  "main": "server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstevens22/Tech-Post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstevens22/Tech-Post/issues"
+  },
+  "homepage": "https://github.com/sstevens22/Tech-Post#readme"
+}
