@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tech_post;
+
+CREATE DATABASE tech_post;
