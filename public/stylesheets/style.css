@@ -35,7 +35,9 @@ h6 {
 .link-color {
     color: var(--tertiary);
     padding: 10px;
-    margin: 10px
+    margin: 10px;
+    text-decoration: none;
+    
 }
 
 main {
@@ -183,11 +185,13 @@ h4 {
 }
 
 .link {
-    color: var(--light-dark);
+    color: white;
+    text-decoration: none;
 }
 
 .login-link {
     color: var(--dark);
+    text-decoration: none;
 }
 
 .nav {
